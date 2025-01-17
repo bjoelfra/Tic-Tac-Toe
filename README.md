@@ -5,7 +5,7 @@ A simple two-player Tic Tac Toe game implemented in Python. This project allows 
 ## Project Overview
 
 This is a terminal-based Tic Tac Toe game where two players take turns to place their marks ('X' or 'O') on a 3x3 grid. The game checks for a winner or a tie, and ends when either one of the players wins or the board is full with no winner.
-
+ 
 ## Features
 
 - Two-player gameplay (Player X and Player O)
